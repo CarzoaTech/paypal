@@ -6,3 +6,4 @@ python applications
 web applications 
 testing conflict notes master
 testing conflict notes
+bug removed 
